@@ -28,7 +28,7 @@ import groovy.time.*;
 ]*/
 
 
-def jobMap = []
+def jobMap = [name: 'move-it-service-acc-prod', buildNum: 17031]
 
 //Created for if the map is empty to add all the jobs
 if(jobMap.isEmpty()){
