@@ -3,3 +3,4 @@ jenkins-cli.jar
 
 # used to store exfiltrated job scripts from jenkins that don't live in jenkins-templates.
 extracted-scripts 
+nodedump
